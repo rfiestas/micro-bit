@@ -1,5 +1,5 @@
+![Tetris L](https://github.com/rfiestas/micro-bit/blob/master/tetris/docs/images/Tetris_L.png)
 
+![Tetris I](https://github.com/rfiestas/micro-bit/blob/master/tetris/docs/images/Tetris_I.png)
 
-[[https://github.com/rfiestas/micro-bit/new/master/tetris/docs/images/Tetris_L.png|alt=L item]]
-[[https://github.com/rfiestas/micro-bit/new/master/tetris/docs/images/Tetris_L.png|alt=I item]]
-[[https://github.com/rfiestas/micro-bit/new/master/tetris/docs/images/Tetris_L.png|alt=M item]]
+![Tetris N](https://github.com/rfiestas/micro-bit/blob/master/tetris/docs/images/Tetris_N.png)
